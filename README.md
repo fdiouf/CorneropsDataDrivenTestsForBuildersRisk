@@ -45,6 +45,14 @@ Git workflow
 	 
 	token: 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
 		
+Round 2
+--------------
+1.git add -A
+2. git commit -m "commit msg"
+3. git push origin master
 
+Pull the files from remote remository
+
+git pull
 
 
