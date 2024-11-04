@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TESTSuite">
+  <test thread-count="5" name="TestRUN">
+    <classes>
+		<class name="buildersRiskTestsFlorida.BuildersRiskStartANewQuoteTest"/>
+		<class name="buildersRiskTestsFlorida.BuildersRiskPrequalificationTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+		<class name="buildersRiskTestsFlorida.BuildersRiskCoverageTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+		<class name="buildersRiskTestsFlorida.BuildersRiskRatingTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsFlorida.BuildersRiskGeneralTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsFlorida.BuildersRiskAdditionalInterestsTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsFlorida.BuildersRiskHistoryTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsFlorida.BuildersRiskStatementsTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsFlorida.BuildersRiskInternalPageTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsFlorida.BuildersRiskDisplayQuoteTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsFlorida.BuildersRiskBindSubmitTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+    </classes>
+  </test> <!-- TestRUN -->
+</suite> <!-- TESTSuite -->

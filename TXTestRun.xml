@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TESTSuite">
+  <test thread-count="5" name="TestRUNTX">
+    <classes>
+		<class name="buildersRiskTestsTexas.BuildersRiskStartANewQuoteTest"/>
+		<class name="buildersRiskTestsTexas.BuildersRiskPrequalificationTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+		<class name="buildersRiskTestsTexas.BuildersRiskCoverageTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+		<class name="buildersRiskTestsTexas.BuildersRiskRatingTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsTexas.BuildersRiskGeneralTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsTexas.BuildersRiskAdditionalInterestsTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsTexas.BuildersRiskHistoryTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsTexas.BuildersRiskStatementsTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsTexas.BuildersRiskInternalPageTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsTexas.BuildersRiskDisplayQuoteTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+        <class name="buildersRiskTestsTexas.BuildersRiskBindSubmitTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+    </classes>
+  </test> <!-- TestRUNTX -->
+</suite> <!-- TESTSuite -->

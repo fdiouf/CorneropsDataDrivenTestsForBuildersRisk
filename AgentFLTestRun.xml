@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+		<class name="buildersRiskFLAgentTests.AgentStartANewQuoteTest"/>
+		<class name="buildersRiskFLAgentTests.AgentPrequalificationTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+		<class name="buildersRiskFLAgentTests.AgentCoverageTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+		<class name="buildersRiskFLAgentTests.AgentRatingTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+		<class name="buildersRiskFLAgentTests.AgentGeneralTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+		<class name="buildersRiskFLAgentTests.AgentAdditionalInterestsTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+		<class name="buildersRiskFLAgentTests.AgentHistoryTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+		<class name="buildersRiskFLAgentTests.AgentStatementsTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+      	<class name="buildersRiskFLAgentTests.AgentDisplayQuoteTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+      	<class name="buildersRiskFLAgentTests.AgentBindSubmitTest">
+			<methods>
+				<exclude name="buildersRiskNewQuote" />
+			</methods>
+		</class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

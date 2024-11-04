@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TESTSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="TestRUNTX(failed)">
+    <classes>
+      <class name="buildersRiskTestsTexas.BuildersRiskStatementsTest">
+        <methods>
+          <include name="buildersRiskStatements4" invocation-numbers="0"/>
+          <include name="buildersRiskStatements3" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="buildersRiskStatements2" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- buildersRiskTestsTexas.BuildersRiskStatementsTest -->
+      <class name="buildersRiskTestsTexas.BuildersRiskHistoryTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="buildersRiskHistory2"/>
+        </methods>
+      </class> <!-- buildersRiskTestsTexas.BuildersRiskHistoryTest -->
+      <class name="buildersRiskTestsTexas.BuildersRiskDisplayQuoteTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="buildersRiskDisplayQuote6"/>
+          <include name="buildersRiskDisplayQuote5"/>
+          <include name="buildersRiskDisplayQuote2"/>
+          <include name="buildersRiskDisplayQuote4" invocation-numbers="0"/>
+          <include name="buildersRiskDisplayQuote1" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- buildersRiskTestsTexas.BuildersRiskDisplayQuoteTest -->
+      <class name="buildersRiskTestsTexas.BuildersRiskAdditionalInterestsTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="buildersRiskInterests3" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- buildersRiskTestsTexas.BuildersRiskAdditionalInterestsTest -->
+      <class name="buildersRiskTestsTexas.BuildersRiskBindSubmitTest">
+        <methods>
+          <include name="buildersRiskBindSubmit6"/>
+          <include name="buildersRiskBindSubmit7"/>
+          <include name="buildersRiskBindSubmit4"/>
+          <include name="buildersRiskBindSubmit5"/>
+          <include name="setUp"/>
+          <include name="buildersRiskBindSubmit8"/>
+          <include name="buildersRiskBindSubmit2"/>
+          <include name="buildersRiskBindSubmit3"/>
+        </methods>
+      </class> <!-- buildersRiskTestsTexas.BuildersRiskBindSubmitTest -->
+      <class name="buildersRiskTestsTexas.BuildersRiskInternalPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="buildersRiskInternal3" invocation-numbers="0"/>
+          <include name="buildersRiskInternal2"/>
+          <include name="buildersRiskInternal1" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- buildersRiskTestsTexas.BuildersRiskInternalPageTest -->
+    </classes>
+  </test> <!-- TestRUNTX(failed) -->
+</suite> <!-- Failed suite [TESTSuite] -->
