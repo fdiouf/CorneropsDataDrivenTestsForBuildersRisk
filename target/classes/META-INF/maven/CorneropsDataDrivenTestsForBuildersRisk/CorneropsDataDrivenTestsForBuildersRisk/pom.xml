@@ -8,6 +8,7 @@
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
+		<suiteFile>AgentFLTestRun.xml</suiteFile>
 	</properties>
 	<dependencies>
 
@@ -167,7 +168,7 @@
 				<version>3.1.2</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFiles>${xmlFiles}</suiteXmlFiles>
+						<suiteXmlFiles>${suiteFile}</suiteXmlFiles>
 					</suiteXmlFiles>
 					<systemPropertyVariables>
 						<appURL>${url}</appURL>
