@@ -586,7 +586,7 @@ public class AgentAdditionalInterestsTest extends BuildersRiskBaseClass{
 			checker = false;
 			System.out.print("\nBuilder's Minimize Insured Button is working correctly");
 		}
-		if(checker==false) {
+		if(checker==true) {
 			Assert.fail("THE BUILDER'S MINIMIZE INSURED IS NOT WORKING AS EXPECTED");
 		}
 		driver.findElement(By.xpath(loc.getProperty("buildersminimizeinsured"))).click();
