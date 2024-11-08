@@ -552,12 +552,7 @@ public class AgentGeneralTest extends BuildersRiskBaseClass{
 		Thread.sleep(5000);
 		driver.findElement(By.xpath(loc.getProperty("builderspriorinscarrier"))).click();
 		driver.findElement(By.xpath(loc.getProperty("builderspriorinscarrier"))).sendKeys("TEST");
-		try {
-			driver.findElement(By.id(loc.getProperty("buildersconstructiontype"))).click();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		driver.findElement(By.id(loc.getProperty("builderssquarefootage"))).click();
 	    driver.findElement(By.id(loc.getProperty("builderspriorinsenddateSTAGE"))).click();
 	    driver.findElement(By.id(loc.getProperty("builderspriorinsenddateSTAGE"))).clear();
 	    driver.findElement(By.id(loc.getProperty("builderspriorinsenddateSTAGE"))).sendKeys("01/01/1899");
