@@ -2,12 +2,12 @@
 <testng-results ignored="48" total="85" passed="37" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-05T14:34:23 EST" name="Suite" finished-at="2024-11-05T14:47:07 EST" duration-ms="763304">
+  <suite started-at="2024-11-06T12:23:16 EST" name="Suite" finished-at="2024-11-06T12:35:49 EST" duration-ms="753006">
     <groups>
     </groups>
-    <test started-at="2024-11-05T14:34:23 EST" name="Test" finished-at="2024-11-05T14:47:07 EST" duration-ms="763304">
+    <test started-at="2024-11-06T12:23:16 EST" name="Test" finished-at="2024-11-06T12:35:49 EST" duration-ms="753006">
       <class name="buildersRiskFLAgentTests.AgentCoverageTest">
-        <test-method signature="buildersRiskCoverage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:35:44 EST" name="buildersRiskCoverage" description="C9093	TC01 - Builders Risk - Coverage - Global Header" data-provider="NewConstructionData" finished-at="2024-11-05T14:35:44 EST" duration-ms="261" status="PASS">
+        <test-method signature="buildersRiskCoverage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:24:34 EST" name="buildersRiskCoverage" description="C9093	TC01 - Builders Risk - Coverage - Global Header" data-provider="NewConstructionData" finished-at="2024-11-06T12:24:34 EST" duration-ms="213" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -433,7 +433,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskCoverage -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:35:44 EST" name="checkStatus" finished-at="2024-11-05T14:35:44 EST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:24:34 EST" name="checkStatus" finished-at="2024-11-06T12:24:34 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -449,7 +449,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskCoverage2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:35:46 EST" name="buildersRiskCoverage2" description="C9094	TC02 - Builders Risk - Coverage - Applicant Information" data-provider="NewConstructionData" finished-at="2024-11-05T14:35:47 EST" duration-ms="1398" status="PASS">
+        <test-method signature="buildersRiskCoverage2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:24:36 EST" name="buildersRiskCoverage2" description="C9094	TC02 - Builders Risk - Coverage - Applicant Information" data-provider="NewConstructionData" finished-at="2024-11-06T12:24:37 EST" duration-ms="1273" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -875,7 +875,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskCoverage2 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:35:47 EST" name="checkStatus" finished-at="2024-11-05T14:35:47 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:24:37 EST" name="checkStatus" finished-at="2024-11-06T12:24:37 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -891,7 +891,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskCoverage3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:35:49 EST" name="buildersRiskCoverage3" description="C9095	TC03 - Builders Risk - Coverage - Applicant Mailing Address" data-provider="NewConstructionData" finished-at="2024-11-05T14:35:55 EST" duration-ms="6014" status="PASS">
+        <test-method signature="buildersRiskCoverage3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:24:39 EST" name="buildersRiskCoverage3" description="C9095	TC03 - Builders Risk - Coverage - Applicant Mailing Address" data-provider="NewConstructionData" finished-at="2024-11-06T12:24:45 EST" duration-ms="5924" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1317,7 +1317,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskCoverage3 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:35:55 EST" name="checkStatus" finished-at="2024-11-05T14:35:55 EST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:24:45 EST" name="checkStatus" finished-at="2024-11-06T12:24:45 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1333,7 +1333,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskCoverage5(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:35:57 EST" name="buildersRiskCoverage5" description="T18807	TC05 - Builders Risk - Coverage - Protection Information" data-provider="NewConstructionData" finished-at="2024-11-05T14:36:07 EST" duration-ms="10263" status="PASS">
+        <test-method signature="buildersRiskCoverage5(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:5, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:24:46 EST" name="buildersRiskCoverage5" description="T18807	TC05 - Builders Risk - Coverage - Protection Information" data-provider="NewConstructionData" finished-at="2024-11-06T12:24:56 EST" duration-ms="10261" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1759,7 +1759,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskCoverage5 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:36:07 EST" name="checkStatus" finished-at="2024-11-05T14:36:07 EST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:24:56 EST" name="checkStatus" finished-at="2024-11-06T12:24:56 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1775,7 +1775,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskCoverage6(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:6, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:36:09 EST" name="buildersRiskCoverage6" description="T18808	TC06 - Builders Risk - Coverage - Limits/Deductibles" data-provider="NewConstructionData" finished-at="2024-11-05T14:36:30 EST" duration-ms="20886" status="PASS">
+        <test-method signature="buildersRiskCoverage6(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:6, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:24:58 EST" name="buildersRiskCoverage6" description="T18808	TC06 - Builders Risk - Coverage - Limits/Deductibles" data-provider="NewConstructionData" finished-at="2024-11-06T12:25:19 EST" duration-ms="20844" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -2201,7 +2201,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskCoverage6 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:36:30 EST" name="checkStatus" finished-at="2024-11-05T14:36:30 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:25:19 EST" name="checkStatus" finished-at="2024-11-06T12:25:19 EST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -2217,7 +2217,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskCoverage7(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:7, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:36:31 EST" name="buildersRiskCoverage7" description="T18809	TC07 - Builders Risk - Coverage - Optional Coverages/Limits" data-provider="NewConstructionData" finished-at="2024-11-05T14:36:58 EST" duration-ms="26481" status="PASS">
+        <test-method signature="buildersRiskCoverage7(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:7, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:25:20 EST" name="buildersRiskCoverage7" description="T18809	TC07 - Builders Risk - Coverage - Optional Coverages/Limits" data-provider="NewConstructionData" finished-at="2024-11-06T12:25:47 EST" duration-ms="27260" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -2643,7 +2643,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskCoverage7 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-05T14:36:58 EST" name="checkStatus" finished-at="2024-11-05T14:36:58 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentCoverageTest@4e50c791]" started-at="2024-11-06T12:25:47 EST" name="checkStatus" finished-at="2024-11-06T12:25:47 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -2661,7 +2661,7 @@
         </test-method> <!-- checkStatus -->
       </class> <!-- buildersRiskFLAgentTests.AgentCoverageTest -->
       <class name="buildersRiskFLAgentTests.AgentRatingTest">
-        <test-method signature="buildersRiskRating2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-05T14:37:00 EST" name="buildersRiskRating2" description="T18810	TC01 - Builders Risk - Rating Header" data-provider="NewConstructionData" finished-at="2024-11-05T14:37:00 EST" duration-ms="241" status="PASS">
+        <test-method signature="buildersRiskRating2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-06T12:25:49 EST" name="buildersRiskRating2" description="T18810	TC01 - Builders Risk - Rating Header" data-provider="NewConstructionData" finished-at="2024-11-06T12:25:49 EST" duration-ms="225" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -3087,11 +3087,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskRating2 -->
-        <test-method signature="buildersRiskRating3()[pri:3, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-05T14:37:00 EST" name="buildersRiskRating3" description="T18812	TC03 - Builders Risk - Rating - Coverage" finished-at="2024-11-05T14:37:20 EST" duration-ms="20172" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- buildersRiskRating3 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-05T14:37:00 EST" name="checkStatus" finished-at="2024-11-05T14:37:00 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-06T12:25:49 EST" name="checkStatus" finished-at="2024-11-06T12:25:49 EST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -3107,11 +3103,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskRating5()[pri:5, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-05T14:37:20 EST" name="buildersRiskRating5" description="T18814	TC05 - Builders Risk - Rating - Premium and Fees" finished-at="2024-11-05T14:37:20 EST" duration-ms="61" status="PASS">
+        <test-method signature="buildersRiskRating3()[pri:3, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-06T12:25:49 EST" name="buildersRiskRating3" description="T18812	TC03 - Builders Risk - Rating - Coverage" finished-at="2024-11-06T12:26:09 EST" duration-ms="20159" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- buildersRiskRating5 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-05T14:37:20 EST" name="checkStatus" finished-at="2024-11-05T14:37:20 EST" duration-ms="0" status="PASS">
+        </test-method> <!-- buildersRiskRating3 -->
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-06T12:26:09 EST" name="checkStatus" finished-at="2024-11-06T12:26:09 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -3127,7 +3123,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-05T14:37:20 EST" name="checkStatus" finished-at="2024-11-05T14:37:20 EST" duration-ms="0" status="PASS">
+        <test-method signature="buildersRiskRating5()[pri:5, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-06T12:26:09 EST" name="buildersRiskRating5" description="T18814	TC05 - Builders Risk - Rating - Premium and Fees" finished-at="2024-11-06T12:26:09 EST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildersRiskRating5 -->
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-06T12:26:09 EST" name="checkStatus" finished-at="2024-11-06T12:26:09 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -3143,11 +3143,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskRating6()[pri:6, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-05T14:37:20 EST" name="buildersRiskRating6" description="T18815	TC06 - Builders Risk - Rating - Underwriter" finished-at="2024-11-05T14:37:34 EST" duration-ms="13881" status="PASS">
+        <test-method signature="buildersRiskRating6()[pri:6, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-06T12:26:09 EST" name="buildersRiskRating6" description="T18815	TC06 - Builders Risk - Rating - Underwriter" finished-at="2024-11-06T12:26:23 EST" duration-ms="13963" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskRating6 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-05T14:37:34 EST" name="checkStatus" finished-at="2024-11-05T14:37:34 EST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentRatingTest@7530ad9c]" started-at="2024-11-06T12:26:23 EST" name="checkStatus" finished-at="2024-11-06T12:26:23 EST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -3165,7 +3165,7 @@
         </test-method> <!-- checkStatus -->
       </class> <!-- buildersRiskFLAgentTests.AgentRatingTest -->
       <class name="buildersRiskFLAgentTests.AgentStatementsTest">
-        <test-method signature="buildersRiskHistory1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-05T14:43:59 EST" name="buildersRiskHistory1" description="T18843	TC01 - Builders Risk - Statements - Login to ISi Test and load Statements page" data-provider="NewConstructionData" finished-at="2024-11-05T14:44:00 EST" duration-ms="249" status="PASS">
+        <test-method signature="buildersRiskHistory1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-06T12:32:49 EST" name="buildersRiskHistory1" description="T18843	TC01 - Builders Risk - Statements - Login to ISi Test and load Statements page" data-provider="NewConstructionData" finished-at="2024-11-06T12:32:49 EST" duration-ms="208" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -3591,7 +3591,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskHistory1 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-05T14:44:00 EST" name="checkStatus" finished-at="2024-11-05T14:44:00 EST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-06T12:32:49 EST" name="checkStatus" finished-at="2024-11-06T12:32:49 EST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -3607,7 +3607,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskStatements2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-05T14:44:01 EST" name="buildersRiskStatements2" description="T18844	TC02 - Builders Risk - Statements - Builder/Remodeler Information section" data-provider="NewConstructionData" finished-at="2024-11-05T14:44:12 EST" duration-ms="10520" status="PASS">
+        <test-method signature="buildersRiskStatements2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-06T12:32:51 EST" name="buildersRiskStatements2" description="T18844	TC02 - Builders Risk - Statements - Builder/Remodeler Information section" data-provider="NewConstructionData" finished-at="2024-11-06T12:33:01 EST" duration-ms="10486" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -4033,7 +4033,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskStatements2 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-05T14:44:12 EST" name="checkStatus" finished-at="2024-11-05T14:44:12 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-06T12:33:01 EST" name="checkStatus" finished-at="2024-11-06T12:33:01 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -4049,7 +4049,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskStatements3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-05T14:44:13 EST" name="buildersRiskStatements3" description="T18845	TC03 - Builders Risk - Statements - Building and Location Information section" data-provider="NewConstructionData" finished-at="2024-11-05T14:45:12 EST" duration-ms="58609" status="PASS">
+        <test-method signature="buildersRiskStatements3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-06T12:33:03 EST" name="buildersRiskStatements3" description="T18845	TC03 - Builders Risk - Statements - Building and Location Information section" data-provider="NewConstructionData" finished-at="2024-11-06T12:34:00 EST" duration-ms="56871" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -4475,7 +4475,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskStatements3 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-05T14:45:12 EST" name="checkStatus" finished-at="2024-11-05T14:45:12 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentStatementsTest@4961f6af]" started-at="2024-11-06T12:34:00 EST" name="checkStatus" finished-at="2024-11-06T12:34:00 EST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -4493,7 +4493,7 @@
         </test-method> <!-- checkStatus -->
       </class> <!-- buildersRiskFLAgentTests.AgentStatementsTest -->
       <class name="buildersRiskFLAgentTests.AgentDisplayQuoteTest">
-        <test-method signature="buildersRiskDisplayQuote1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-05T14:45:14 EST" name="buildersRiskDisplayQuote1" description="T18834	TC01 - Builders Risk - Display Quote Header" data-provider="NewConstructionData" finished-at="2024-11-05T14:45:14 EST" duration-ms="254" status="PASS">
+        <test-method signature="buildersRiskDisplayQuote1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-06T12:34:01 EST" name="buildersRiskDisplayQuote1" description="T18834	TC01 - Builders Risk - Display Quote Header" data-provider="NewConstructionData" finished-at="2024-11-06T12:34:01 EST" duration-ms="223" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -4919,7 +4919,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskDisplayQuote1 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-05T14:45:14 EST" name="checkStatus" finished-at="2024-11-05T14:45:14 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-06T12:34:01 EST" name="checkStatus" finished-at="2024-11-06T12:34:01 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -4935,11 +4935,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskDisplayQuote2()[pri:2, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-05T14:45:14 EST" name="buildersRiskDisplayQuote2" description="T18835	TC02 - Builders Risk - Display Quote - Quote Information" finished-at="2024-11-05T14:45:34 EST" duration-ms="20216" status="PASS">
+        <test-method signature="buildersRiskDisplayQuote2()[pri:2, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-06T12:34:01 EST" name="buildersRiskDisplayQuote2" description="T18835	TC02 - Builders Risk - Display Quote - Quote Information" finished-at="2024-11-06T12:34:22 EST" duration-ms="20176" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskDisplayQuote2 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-05T14:45:34 EST" name="checkStatus" finished-at="2024-11-05T14:45:34 EST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-06T12:34:22 EST" name="checkStatus" finished-at="2024-11-06T12:34:22 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -4955,11 +4955,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskDisplayQuote5()[pri:5, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-05T14:45:34 EST" name="buildersRiskDisplayQuote5" description="T18838	TC05 - Builders Risk - Display Quote - Premium and Fees" finished-at="2024-11-05T14:45:34 EST" duration-ms="49" status="PASS">
+        <test-method signature="buildersRiskDisplayQuote5()[pri:5, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-06T12:34:22 EST" name="buildersRiskDisplayQuote5" description="T18838	TC05 - Builders Risk - Display Quote - Premium and Fees" finished-at="2024-11-06T12:34:22 EST" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskDisplayQuote5 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-05T14:45:34 EST" name="checkStatus" finished-at="2024-11-05T14:45:34 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-06T12:34:22 EST" name="checkStatus" finished-at="2024-11-06T12:34:22 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -4975,11 +4975,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskDisplayQuote6()[pri:6, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-05T14:45:34 EST" name="buildersRiskDisplayQuote6" description="T18839	TC06 - Builders Risk - Display Quote - Underwriter" finished-at="2024-11-05T14:45:57 EST" duration-ms="23137" status="PASS">
+        <test-method signature="buildersRiskDisplayQuote6()[pri:6, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-06T12:34:22 EST" name="buildersRiskDisplayQuote6" description="T18839	TC06 - Builders Risk - Display Quote - Underwriter" finished-at="2024-11-06T12:34:40 EST" duration-ms="18660" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskDisplayQuote6 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-05T14:45:57 EST" name="checkStatus" finished-at="2024-11-05T14:45:57 EST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentDisplayQuoteTest@5aebe890]" started-at="2024-11-06T12:34:40 EST" name="checkStatus" finished-at="2024-11-06T12:34:40 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -4997,11 +4997,11 @@
         </test-method> <!-- checkStatus -->
       </class> <!-- buildersRiskFLAgentTests.AgentDisplayQuoteTest -->
       <class name="buildersRiskFLAgentTests.AgentStartANewQuoteTest">
-        <test-method is-config="true" signature="initializeExtentReports()[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-05T14:34:23 EST" name="initializeExtentReports" finished-at="2024-11-05T14:34:23 EST" duration-ms="200" status="PASS">
+        <test-method is-config="true" signature="initializeExtentReports()[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-06T12:23:16 EST" name="initializeExtentReports" finished-at="2024-11-06T12:23:16 EST" duration-ms="194" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeExtentReports -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-05T14:34:23 EST" name="setUp" finished-at="2024-11-05T14:34:31 EST" duration-ms="7697" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestContext)[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-06T12:23:16 EST" name="setUp" finished-at="2024-11-06T12:23:23 EST" duration-ms="6940" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -5012,7 +5012,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="buildersRiskStartANewQuoteTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-05T14:34:35 EST" name="buildersRiskStartANewQuoteTest" description="C9075	TC01 - Builders Risk - Start a New Quote" data-provider="NewConstructionData" finished-at="2024-11-05T14:34:52 EST" duration-ms="17782" status="PASS">
+        <test-method signature="buildersRiskStartANewQuoteTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-06T12:23:26 EST" name="buildersRiskStartANewQuoteTest" description="C9075	TC01 - Builders Risk - Start a New Quote" data-provider="NewConstructionData" finished-at="2024-11-06T12:23:44 EST" duration-ms="17259" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -5438,7 +5438,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskStartANewQuoteTest -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-05T14:34:52 EST" name="checkStatus" finished-at="2024-11-05T14:34:52 EST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-06T12:23:44 EST" name="checkStatus" finished-at="2024-11-06T12:23:44 EST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -5454,21 +5454,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-05T14:47:06 EST" name="tearDown" finished-at="2024-11-05T14:47:07 EST" duration-ms="1130" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-06T12:35:48 EST" name="tearDown" finished-at="2024-11-06T12:35:49 EST" duration-ms="1114" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="generateExtentReports()[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-05T14:47:07 EST" name="generateExtentReports" finished-at="2024-11-05T14:47:07 EST" duration-ms="676" status="PASS">
+        <test-method is-config="true" signature="generateExtentReports()[pri:0, instance:buildersRiskFLAgentTests.AgentStartANewQuoteTest@bccb269]" started-at="2024-11-06T12:35:49 EST" name="generateExtentReports" finished-at="2024-11-06T12:35:50 EST" duration-ms="738" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateExtentReports -->
       </class> <!-- buildersRiskFLAgentTests.AgentStartANewQuoteTest -->
       <class name="buildersRiskFLAgentTests.AgentPrequalificationTest">
-        <test-method signature="buildersRiskPrequalificationTest()[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-05T14:34:52 EST" name="buildersRiskPrequalificationTest" description="C9078	TC01 - Builders Risk - Prequalification - Global Header" finished-at="2024-11-05T14:34:53 EST" duration-ms="94" status="PASS">
+        <test-method signature="buildersRiskPrequalificationTest()[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-06T12:23:44 EST" name="buildersRiskPrequalificationTest" description="C9078	TC01 - Builders Risk - Prequalification - Global Header" finished-at="2024-11-06T12:23:44 EST" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskPrequalificationTest -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-05T14:34:53 EST" name="checkStatus" finished-at="2024-11-05T14:34:53 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-06T12:23:44 EST" name="checkStatus" finished-at="2024-11-06T12:23:44 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -5484,7 +5484,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskPrequalificationTest2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-05T14:34:54 EST" name="buildersRiskPrequalificationTest2" description="C9079	TC02 - Builders Risk - Prequalification - Sub Header" data-provider="NewConstructionData" finished-at="2024-11-05T14:35:06 EST" duration-ms="11849" status="PASS">
+        <test-method signature="buildersRiskPrequalificationTest2(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-06T12:23:46 EST" name="buildersRiskPrequalificationTest2" description="C9079	TC02 - Builders Risk - Prequalification - Sub Header" data-provider="NewConstructionData" finished-at="2024-11-06T12:23:57 EST" duration-ms="11862" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -5910,7 +5910,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskPrequalificationTest2 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-05T14:35:06 EST" name="checkStatus" finished-at="2024-11-05T14:35:06 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-06T12:23:57 EST" name="checkStatus" finished-at="2024-11-06T12:23:57 EST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -5926,7 +5926,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskPrequalificationTest3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-05T14:35:08 EST" name="buildersRiskPrequalificationTest3" description="TC03 - Builders Risk - Prequalification - Questions" data-provider="NewConstructionData" finished-at="2024-11-05T14:35:42 EST" duration-ms="34164" status="PASS">
+        <test-method signature="buildersRiskPrequalificationTest3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-06T12:23:59 EST" name="buildersRiskPrequalificationTest3" description="TC03 - Builders Risk - Prequalification - Questions" data-provider="NewConstructionData" finished-at="2024-11-06T12:24:32 EST" duration-ms="33299" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -6352,7 +6352,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskPrequalificationTest3 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-05T14:35:42 EST" name="checkStatus" finished-at="2024-11-05T14:35:42 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentPrequalificationTest@1e66f1f5]" started-at="2024-11-06T12:24:32 EST" name="checkStatus" finished-at="2024-11-06T12:24:32 EST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -6370,7 +6370,7 @@
         </test-method> <!-- checkStatus -->
       </class> <!-- buildersRiskFLAgentTests.AgentPrequalificationTest -->
       <class name="buildersRiskFLAgentTests.AgentAdditionalInterestsTest">
-        <test-method signature="buildersRiskInterests1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-05T14:41:13 EST" name="buildersRiskInterests1" description="T18798	TC01 - Builders Risk - Additional Interest &amp; Insured Headers" data-provider="NewConstructionData" finished-at="2024-11-05T14:41:14 EST" duration-ms="237" status="PASS">
+        <test-method signature="buildersRiskInterests1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-06T12:30:02 EST" name="buildersRiskInterests1" description="T18798	TC01 - Builders Risk - Additional Interest &amp; Insured Headers" data-provider="NewConstructionData" finished-at="2024-11-06T12:30:02 EST" duration-ms="193" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -6796,7 +6796,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskInterests1 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-05T14:41:14 EST" name="checkStatus" finished-at="2024-11-05T14:41:14 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-06T12:30:02 EST" name="checkStatus" finished-at="2024-11-06T12:30:02 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -6812,11 +6812,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskInterests2()[pri:2, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-05T14:41:14 EST" name="buildersRiskInterests2" description="T18799	TC02 - Builders Risk - Additional Interest" finished-at="2024-11-05T14:42:00 EST" duration-ms="46002" status="PASS">
+        <test-method signature="buildersRiskInterests2()[pri:2, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-06T12:30:02 EST" name="buildersRiskInterests2" description="T18799	TC02 - Builders Risk - Additional Interest" finished-at="2024-11-06T12:30:49 EST" duration-ms="47116" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskInterests2 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-05T14:42:00 EST" name="checkStatus" finished-at="2024-11-05T14:42:00 EST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-06T12:30:49 EST" name="checkStatus" finished-at="2024-11-06T12:30:49 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -6832,7 +6832,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskInterests3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-05T14:42:01 EST" name="buildersRiskInterests3" description="T18801	TC04 - Builders Risk - Additional Insureds" data-provider="NewConstructionData" finished-at="2024-11-05T14:42:32 EST" duration-ms="30174" status="PASS">
+        <test-method signature="buildersRiskInterests3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-06T12:30:51 EST" name="buildersRiskInterests3" description="T18801	TC04 - Builders Risk - Additional Insureds" data-provider="NewConstructionData" finished-at="2024-11-06T12:31:21 EST" duration-ms="30257" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -7258,7 +7258,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskInterests3 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-05T14:42:32 EST" name="checkStatus" finished-at="2024-11-05T14:42:32 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentAdditionalInterestsTest@71e9ddb4]" started-at="2024-11-06T12:31:21 EST" name="checkStatus" finished-at="2024-11-06T12:31:21 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -7276,7 +7276,7 @@
         </test-method> <!-- checkStatus -->
       </class> <!-- buildersRiskFLAgentTests.AgentAdditionalInterestsTest -->
       <class name="buildersRiskFLAgentTests.AgentHistoryTest">
-        <test-method signature="buildersRiskHistory1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentHistoryTest@394df057]" started-at="2024-11-05T14:42:33 EST" name="buildersRiskHistory1" description="T18793	TC01 - Builder Risk - History - Global Header" data-provider="NewConstructionData" finished-at="2024-11-05T14:42:33 EST" duration-ms="226" status="PASS">
+        <test-method signature="buildersRiskHistory1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentHistoryTest@394df057]" started-at="2024-11-06T12:31:22 EST" name="buildersRiskHistory1" description="T18793	TC01 - Builder Risk - History - Global Header" data-provider="NewConstructionData" finished-at="2024-11-06T12:31:23 EST" duration-ms="205" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -7702,7 +7702,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskHistory1 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentHistoryTest@394df057]" started-at="2024-11-05T14:42:33 EST" name="checkStatus" finished-at="2024-11-05T14:42:33 EST" duration-ms="0" status="PASS">
+        <test-method signature="buildersRiskHistory2()[pri:2, instance:buildersRiskFLAgentTests.AgentHistoryTest@394df057]" started-at="2024-11-06T12:31:23 EST" name="buildersRiskHistory2" description="T18793	TC01 - Builder Risk - History - Global Header" finished-at="2024-11-06T12:32:48 EST" duration-ms="85085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildersRiskHistory2 -->
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentHistoryTest@394df057]" started-at="2024-11-06T12:31:23 EST" name="checkStatus" finished-at="2024-11-06T12:31:23 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -7718,11 +7722,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskHistory2()[pri:2, instance:buildersRiskFLAgentTests.AgentHistoryTest@394df057]" started-at="2024-11-05T14:42:33 EST" name="buildersRiskHistory2" description="T18793	TC01 - Builder Risk - History - Global Header" finished-at="2024-11-05T14:43:58 EST" duration-ms="84287" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- buildersRiskHistory2 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentHistoryTest@394df057]" started-at="2024-11-05T14:43:58 EST" name="checkStatus" finished-at="2024-11-05T14:43:58 EST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentHistoryTest@394df057]" started-at="2024-11-06T12:32:48 EST" name="checkStatus" finished-at="2024-11-06T12:32:48 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -7740,7 +7740,7 @@
         </test-method> <!-- checkStatus -->
       </class> <!-- buildersRiskFLAgentTests.AgentHistoryTest -->
       <class name="buildersRiskFLAgentTests.AgentBindSubmitTest">
-        <test-method signature="buildersRiskBindSubmit1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:45:59 EST" name="buildersRiskBindSubmit1" description="T18816	TC01 - Builder Risk - Bind Submit Application - Global Header" data-provider="NewConstructionData" finished-at="2024-11-05T14:45:59 EST" duration-ms="287" status="PASS">
+        <test-method signature="buildersRiskBindSubmit1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:34:42 EST" name="buildersRiskBindSubmit1" description="T18816	TC01 - Builder Risk - Bind Submit Application - Global Header" data-provider="NewConstructionData" finished-at="2024-11-06T12:34:42 EST" duration-ms="246" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8166,11 +8166,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskBindSubmit1 -->
-        <test-method signature="buildersRiskBindSubmit2()[pri:2, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:45:59 EST" name="buildersRiskBindSubmit2" description="T18818	TC03 - Builder Risk - Bind Submit Application - Premiums and Fees" finished-at="2024-11-05T14:45:59 EST" duration-ms="156" status="PASS">
+        <test-method signature="buildersRiskBindSubmit2()[pri:2, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:34:42 EST" name="buildersRiskBindSubmit2" description="T18818	TC03 - Builder Risk - Bind Submit Application - Premiums and Fees" finished-at="2024-11-06T12:34:42 EST" duration-ms="145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskBindSubmit2 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:45:59 EST" name="checkStatus" finished-at="2024-11-05T14:45:59 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:34:42 EST" name="checkStatus" finished-at="2024-11-06T12:34:42 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8186,7 +8186,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:45:59 EST" name="checkStatus" finished-at="2024-11-05T14:45:59 EST" duration-ms="0" status="PASS">
+        <test-method signature="buildersRiskBindSubmit3()[pri:3, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:34:42 EST" name="buildersRiskBindSubmit3" description="T18819	TC04 - Builder Risk - Bind Submit Application - Payment Information" finished-at="2024-11-06T12:35:02 EST" duration-ms="20206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildersRiskBindSubmit3 -->
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:34:42 EST" name="checkStatus" finished-at="2024-11-06T12:34:42 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8202,15 +8206,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskBindSubmit3()[pri:3, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:45:59 EST" name="buildersRiskBindSubmit3" description="T18819	TC04 - Builder Risk - Bind Submit Application - Payment Information" finished-at="2024-11-05T14:46:20 EST" duration-ms="20198" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- buildersRiskBindSubmit3 -->
-        <test-method signature="buildersRiskBindSubmit4()[pri:4, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:46:20 EST" name="buildersRiskBindSubmit4" description="T18820	TC05 - Builder Risk - Bind Submit Application - Document Upload" finished-at="2024-11-05T14:46:30 EST" duration-ms="10115" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- buildersRiskBindSubmit4 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:46:20 EST" name="checkStatus" finished-at="2024-11-05T14:46:20 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:35:02 EST" name="checkStatus" finished-at="2024-11-06T12:35:02 EST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8226,7 +8222,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:46:30 EST" name="checkStatus" finished-at="2024-11-05T14:46:30 EST" duration-ms="0" status="PASS">
+        <test-method signature="buildersRiskBindSubmit4()[pri:4, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:35:02 EST" name="buildersRiskBindSubmit4" description="T18820	TC05 - Builder Risk - Bind Submit Application - Document Upload" finished-at="2024-11-06T12:35:12 EST" duration-ms="10122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildersRiskBindSubmit4 -->
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:35:12 EST" name="checkStatus" finished-at="2024-11-06T12:35:12 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8242,11 +8242,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskBindSubmit5()[pri:5, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:46:30 EST" name="buildersRiskBindSubmit5" description="T18821	TC06 - Builder Risk - Bind Submit Application - Set Application Status" finished-at="2024-11-05T14:46:30 EST" duration-ms="92" status="PASS">
+        <test-method signature="buildersRiskBindSubmit5()[pri:5, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:35:12 EST" name="buildersRiskBindSubmit5" description="T18821	TC06 - Builder Risk - Bind Submit Application - Set Application Status" finished-at="2024-11-06T12:35:13 EST" duration-ms="80" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskBindSubmit5 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:46:30 EST" name="checkStatus" finished-at="2024-11-05T14:46:30 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:35:13 EST" name="checkStatus" finished-at="2024-11-06T12:35:13 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8262,11 +8262,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskBindSubmit6()[pri:6, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:46:30 EST" name="buildersRiskBindSubmit6" description="T18822	TC07 - Builder Risk - Bind Submit Application - Remarks" finished-at="2024-11-05T14:46:31 EST" duration-ms="1175" status="PASS">
+        <test-method signature="buildersRiskBindSubmit6()[pri:6, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:35:13 EST" name="buildersRiskBindSubmit6" description="T18822	TC07 - Builder Risk - Bind Submit Application - Remarks" finished-at="2024-11-06T12:35:14 EST" duration-ms="1183" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskBindSubmit6 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:46:31 EST" name="checkStatus" finished-at="2024-11-05T14:46:31 EST" duration-ms="0" status="PASS">
+        <test-method signature="buildersRiskBindSubmit7()[pri:7, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:35:14 EST" name="buildersRiskBindSubmit7" description="T18823	TC08 - Builder Risk - Bind Submit Application - Quote Message Log &amp; T18824 TC09 - Builder Risk - Bind Submit Application - Quote Preparation Options" finished-at="2024-11-06T12:35:14 EST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildersRiskBindSubmit7 -->
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:35:14 EST" name="checkStatus" finished-at="2024-11-06T12:35:14 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8282,15 +8286,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskBindSubmit7()[pri:7, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:46:31 EST" name="buildersRiskBindSubmit7" description="T18823	TC08 - Builder Risk - Bind Submit Application - Quote Message Log &amp; T18824 TC09 - Builder Risk - Bind Submit Application - Quote Preparation Options" finished-at="2024-11-05T14:46:31 EST" duration-ms="53" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- buildersRiskBindSubmit7 -->
-        <test-method signature="buildersRiskBindSubmit8()[pri:8, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:46:31 EST" name="buildersRiskBindSubmit8" description="T18825	TC10 - Builder Risk - Bind Submit Application - Send Quote by E-Mail" finished-at="2024-11-05T14:47:06 EST" duration-ms="34497" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- buildersRiskBindSubmit8 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:46:31 EST" name="checkStatus" finished-at="2024-11-05T14:46:31 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:35:14 EST" name="checkStatus" finished-at="2024-11-06T12:35:14 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8306,7 +8302,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-05T14:47:06 EST" name="checkStatus" finished-at="2024-11-05T14:47:06 EST" duration-ms="1" status="PASS">
+        <test-method signature="buildersRiskBindSubmit8()[pri:8, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:35:14 EST" name="buildersRiskBindSubmit8" description="T18825	TC10 - Builder Risk - Bind Submit Application - Send Quote by E-Mail" finished-at="2024-11-06T12:35:48 EST" duration-ms="33989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildersRiskBindSubmit8 -->
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentBindSubmitTest@65d09a04]" started-at="2024-11-06T12:35:48 EST" name="checkStatus" finished-at="2024-11-06T12:35:48 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8324,7 +8324,7 @@
         </test-method> <!-- checkStatus -->
       </class> <!-- buildersRiskFLAgentTests.AgentBindSubmitTest -->
       <class name="buildersRiskFLAgentTests.AgentGeneralTest">
-        <test-method signature="buildersRiskGeneral1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-05T14:37:36 EST" name="buildersRiskGeneral1" description="T18789	TC01 - Builders Risk - General Headers" data-provider="NewConstructionData" finished-at="2024-11-05T14:37:36 EST" duration-ms="307" status="PASS">
+        <test-method signature="buildersRiskGeneral1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-06T12:26:25 EST" name="buildersRiskGeneral1" description="T18789	TC01 - Builders Risk - General Headers" data-provider="NewConstructionData" finished-at="2024-11-06T12:26:25 EST" duration-ms="302" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8750,7 +8750,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskGeneral1 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-05T14:37:36 EST" name="checkStatus" finished-at="2024-11-05T14:37:36 EST" duration-ms="0" status="PASS">
+        <test-method signature="buildersRiskGeneral2()[pri:2, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-06T12:26:25 EST" name="buildersRiskGeneral2" description="T18790	TC02 - Builders Risk - General - Policy Information" finished-at="2024-11-06T12:29:28 EST" duration-ms="182714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buildersRiskGeneral2 -->
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-06T12:26:25 EST" name="checkStatus" finished-at="2024-11-06T12:26:25 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8766,11 +8770,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskGeneral2()[pri:2, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-05T14:37:36 EST" name="buildersRiskGeneral2" description="T18790	TC02 - Builders Risk - General - Policy Information" finished-at="2024-11-05T14:40:39 EST" duration-ms="182843" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- buildersRiskGeneral2 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-05T14:40:39 EST" name="checkStatus" finished-at="2024-11-05T14:40:39 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-06T12:29:28 EST" name="checkStatus" finished-at="2024-11-06T12:29:28 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -8786,7 +8786,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkStatus -->
-        <test-method signature="buildersRiskGeneral3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-05T14:40:41 EST" name="buildersRiskGeneral3" description="T18791	TC03 - Builders Risk - General - Prior Insurance Information" data-provider="NewConstructionData" finished-at="2024-11-05T14:41:12 EST" duration-ms="30664" status="PASS">
+        <test-method signature="buildersRiskGeneral3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-06T12:29:29 EST" name="buildersRiskGeneral3" description="T18791	TC03 - Builders Risk - General - Prior Insurance Information" data-provider="NewConstructionData" finished-at="2024-11-06T12:30:00 EST" duration-ms="30883" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -9212,7 +9212,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildersRiskGeneral3 -->
-        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-05T14:41:12 EST" name="checkStatus" finished-at="2024-11-05T14:41:12 EST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="checkStatus(java.lang.reflect.Method,org.testng.ITestResult)[pri:0, instance:buildersRiskFLAgentTests.AgentGeneralTest@58a9760d]" started-at="2024-11-06T12:30:00 EST" name="checkStatus" finished-at="2024-11-06T12:30:00 EST" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
